@@ -1,8 +1,9 @@
 # devops-daily-practice
 # GFG Practiced Scripts
+/n
 <img width="562" height="137" alt="Screenshot 2026-02-19 115227" src="https://github.com/user-attachments/assets/ed7a3e6e-d991-4391-b1af-fd318432a5e7" />
 <img width="799" height="261" alt="Screenshot 2026-02-19 115247" src="https://github.com/user-attachments/assets/2804a0b7-3e44-44f9-a960-15325394052b" />
-
+/n
 <img width="459" height="91" alt="Screenshot 2026-02-19 115418" src="https://github.com/user-attachments/assets/02d38d45-3636-4caf-9e4a-738635f6e601" />
 <img width="459" height="359" alt="Screenshot 2026-02-19 115429" src="https://github.com/user-attachments/assets/575fd304-ea59-4756-ba94-3af714312c2e" />
 
