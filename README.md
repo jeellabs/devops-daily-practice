@@ -1,8 +1,9 @@
 # devops-daily-practice
 # GFG Practiced Scripts
-------------------------------------------------------------
+<br><br>
 1) Conditional Statements | Shell Script
-------------------------------------------------------------
+<br><br>
+
 <img width="562" height="137" alt="Screenshot 2026-02-19 115227" src="https://github.com/user-attachments/assets/ed7a3e6e-d991-4391-b1af-fd318432a5e7" />
 <br><br>
 <img width="799" height="261" alt="Screenshot 2026-02-19 115247" src="https://github.com/user-attachments/assets/2804a0b7-3e44-44f9-a960-15325394052b" />
@@ -14,9 +15,11 @@
 <img width="459" height="359" alt="Screenshot 2026-02-19 115429" src="https://github.com/user-attachments/assets/575fd304-ea59-4756-ba94-3af714312c2e" />
 <br><br>
 ============================================================
-------------------------------------------------------------
+
+<br><br>
 2) Looping Statements | Shell Script
-------------------------------------------------------------
+<br><br>
+
 <img width="441" height="348" alt="Screenshot 2026-02-19 115553" src="https://github.com/user-attachments/assets/2934bf7a-bef1-4f88-b5f9-78fe22e3c988" />
 <br><br>
 <img width="397" height="297" alt="Screenshot 2026-02-19 115603" src="https://github.com/user-attachments/assets/24070401-aac4-42b3-89df-eea5400fc8c8" />
@@ -56,8 +59,10 @@
 <img width="644" height="263" alt="Screenshot 2026-02-19 120215" src="https://github.com/user-attachments/assets/8e97f476-532b-44a7-8ff9-504fe5cd5aa9" />
 <br><br>
 ============================================================
-------------------------------------------------------------
+
+<br><br>
 3) Automating Linux System Backups with Bash
-------------------------------------------------------------
+<br><br>
+
 <img width="1174" height="668" alt="Screenshot 2026-02-19 120600" src="https://github.com/user-attachments/assets/4459438f-cdbf-47c2-b7f9-fedfd389fb9c" />
 =============================================================
