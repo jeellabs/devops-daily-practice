@@ -12,7 +12,7 @@
 ------------------------------------------------------------
 <img width="459" height="359" alt="Screenshot 2026-02-19 115429" src="https://github.com/user-attachments/assets/575fd304-ea59-4756-ba94-3af714312c2e" />
 ============================================================
--------------------------------------------------------------
+
 2) Looping Statements | Shell Script
 ------------------------------------------------------------
 <img width="441" height="348" alt="Screenshot 2026-02-19 115553" src="https://github.com/user-attachments/assets/2934bf7a-bef1-4f88-b5f9-78fe22e3c988" />
@@ -44,7 +44,7 @@
 ------------------------------------------------------------
 <img width="644" height="263" alt="Screenshot 2026-02-19 120215" src="https://github.com/user-attachments/assets/8e97f476-532b-44a7-8ff9-504fe5cd5aa9" />
 ============================================================
-------------------------------------------------------------
+
 3) Automating Linux System Backups with Bash
 ------------------------------------------------------------
 <img width="1174" height="668" alt="Screenshot 2026-02-19 120600" src="https://github.com/user-attachments/assets/4459438f-cdbf-47c2-b7f9-fedfd389fb9c" />
