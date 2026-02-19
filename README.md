@@ -70,8 +70,54 @@
 
 
 # Exam
-
+# Q-4
 - Categorize unauthorized packages by risk: Critical (hacking tools, backdoors), High (unauthorized servers/services), Medium (unnecessary software), Low (utilities).
 
 <img width="975" height="686" alt="image" src="https://github.com/user-attachments/assets/55f8d990-3565-420b-81b6-f440b4e93e70" />
-<img width="975" height="686" alt="image" src="https://github.com/user-attachments/assets/55f8d990-3565-420b-81b6-f440b4e93e70" />
+
+- For packages in the approved list, check if the installed version meets the minimum version requirement. List packages that are outdated.
+
+<img width="975" height="646" alt="image" src="https://github.com/user-attachments/assets/09dfdb2d-9885-4e16-b893-02da31dfd6f9" />
+
+- Audit script
+
+<img width="975" height="738" alt="image" src="https://github.com/user-attachments/assets/ffbf6352-baf8-4e91-b233-4c61b3b95e96" />
+
+# Q-5
+- From disk_usage.txt, which partitions are in CRITICAL (>90%), WARNING (>80%), and OK state? Show usage as a formatted table.
+
+<img width="975" height="662" alt="image" src="https://github.com/user-attachments/assets/cb474055-a5cb-4a41-b80f-9159decc4ae3" />
+
+- Write crontab entries: run disk alert every hour, run cleanup weekly at Sunday 3 AM, delete gzipped logs older than 90 days monthly.
+
+<img width="975" height="214" alt="image" src="https://github.com/user-attachments/assets/d88d8290-0c13-4807-ba75-bda10bd58cb3" />
+
+# Q-1
+- Create a full project backup excluding: .git/, uploads/temp/, logs/, *.pyc files. Name: webapp_clean_YYYYMMDD.tar.gz
+
+<img width="975" height="478" alt="image" src="https://github.com/user-attachments/assets/4eb50e3b-9ec6-4aa1-8ad8-2d6c8ca4d2c9" />
+
+<img width="975" height="73" alt="image" src="https://github.com/user-attachments/assets/1e9bf4a2-cccd-43b1-a4cc-0fba816c6df6" />
+
+- Use grep to scan all config files for sensitive data (strings like password, secret, key, pass). List every file that contains credentials.
+
+<img width="975" height="256" alt="image" src="https://github.com/user-attachments/assets/438005c2-fcd0-44b5-9fc7-f7b2720b1683" />
+
+# Q-3 
+- Cross-reference server_inventory.csv with failures. Which roles are affected? What is the business impact?
+
+<img width="975" height="84" alt="image" src="https://github.com/user-attachments/assets/4bcef907-5cb9-43d1-aadd-50321d1f6da1" />
+
+# Q-2
+- From network_connections.txt, identify suspicious listening ports and outbound connections. Which are legitimate? Which are malicious?
+
+<img width="975" height="138" alt="image" src="https://github.com/user-attachments/assets/4dbcd75f-b40f-4fc9-afde-a89830bbc7f9" />
+
+- Incident Report Script
+
+<img width="975" height="425" alt="image" src="https://github.com/user-attachments/assets/76eadd03-8197-4b1e-8786-af5394270751" />
+
+# Q-6
+- From deploy_history.log, extract all FAILED deployments. List the version, date, and root cause for each.
+
+<img width="975" height="290" alt="image" src="https://github.com/user-attachments/assets/fb1c824a-1892-421d-94bc-8b67ecb8657a" />
