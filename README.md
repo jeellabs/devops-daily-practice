@@ -1,18 +1,28 @@
 # devops-daily-practice
 # GFG Practiced Scripts
+------------------------------------------------------------
 1) Conditional Statements | Shell Script
+------------------------------------------------------------
 <img width="562" height="137" alt="Screenshot 2026-02-19 115227" src="https://github.com/user-attachments/assets/ed7a3e6e-d991-4391-b1af-fd318432a5e7" />
+------------------------------------------------------------
 <img width="799" height="261" alt="Screenshot 2026-02-19 115247" src="https://github.com/user-attachments/assets/2804a0b7-3e44-44f9-a960-15325394052b" />
+============================================================
 
 <img width="459" height="91" alt="Screenshot 2026-02-19 115418" src="https://github.com/user-attachments/assets/02d38d45-3636-4caf-9e4a-738635f6e601" />
+------------------------------------------------------------
 <img width="459" height="359" alt="Screenshot 2026-02-19 115429" src="https://github.com/user-attachments/assets/575fd304-ea59-4756-ba94-3af714312c2e" />
+============================================================
 
 2) Looping Statements | Shell Script
 <img width="441" height="348" alt="Screenshot 2026-02-19 115553" src="https://github.com/user-attachments/assets/2934bf7a-bef1-4f88-b5f9-78fe22e3c988" />
+------------------------------------------------------------
 <img width="397" height="297" alt="Screenshot 2026-02-19 115603" src="https://github.com/user-attachments/assets/24070401-aac4-42b3-89df-eea5400fc8c8" />
+============================================================
 
 <img width="499" height="209" alt="Screenshot 2026-02-19 115653" src="https://github.com/user-attachments/assets/129b0f3e-e275-43d6-84cb-5ac616631a3a" />
+------------------------------------------------------------
 <img width="568" height="343" alt="Screenshot 2026-02-19 115705" src="https://github.com/user-attachments/assets/29051354-ed65-4f79-986d-3793bf65837d" />
+============================================================
 
 <img width="425" height="342" alt="Screenshot 2026-02-19 115811" src="https://github.com/user-attachments/assets/f4635a84-9498-4943-a9c8-5c02bbbbe77c" />
 <img width="498" height="276" alt="Screenshot 2026-02-19 115821" src="https://github.com/user-attachments/assets/099ad631-3c61-4c38-aa07-e8b0743e0ed1" />
