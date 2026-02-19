@@ -24,7 +24,9 @@
 ------------------------------------------------------------
 <img width="568" height="343" alt="Screenshot 2026-02-19 115705" src="https://github.com/user-attachments/assets/29051354-ed65-4f79-986d-3793bf65837d" />
 ============================================================
+<br><br>
 #For loop
+<br><br>
 <img width="425" height="342" alt="Screenshot 2026-02-19 115811" src="https://github.com/user-attachments/assets/f4635a84-9498-4943-a9c8-5c02bbbbe77c" />
 ------------------------------------------------------------
 <img width="498" height="276" alt="Screenshot 2026-02-19 115821" src="https://github.com/user-attachments/assets/099ad631-3c61-4c38-aa07-e8b0743e0ed1" />
@@ -34,7 +36,9 @@
 ------------------------------------------------------------
 <img width="393" height="209" alt="Screenshot 2026-02-19 115957" src="https://github.com/user-attachments/assets/665f7434-543a-4442-af87-fd5acaa2c740" />
 ============================================================
+<br><br>
 #While loop
+<br><br>
 <img width="522" height="338" alt="Screenshot 2026-02-19 120110" src="https://github.com/user-attachments/assets/bd783499-3e78-46bf-9923-ded48254a0f8" />
 ------------------------------------------------------------
 <img width="509" height="214" alt="Screenshot 2026-02-19 120118" src="https://github.com/user-attachments/assets/4b8d671f-5d9b-40bf-a2e3-3ec398634fd8" />
