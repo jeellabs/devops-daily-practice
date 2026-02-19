@@ -72,3 +72,6 @@
 # Exam
 
 - Categorize unauthorized packages by risk: Critical (hacking tools, backdoors), High (unauthorized servers/services), Medium (unnecessary software), Low (utilities).
+
+<img width="975" height="686" alt="image" src="https://github.com/user-attachments/assets/55f8d990-3565-420b-81b6-f440b4e93e70" />
+<img width="975" height="686" alt="image" src="https://github.com/user-attachments/assets/55f8d990-3565-420b-81b6-f440b4e93e70" />
